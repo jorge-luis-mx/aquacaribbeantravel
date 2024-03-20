@@ -1,0 +1,59 @@
+[
+   {
+      "id":1,
+      "name":"CANCUN",
+      "description":"",
+      "url":"",
+      "img":"destinations.jpg",
+      "title":""
+   },
+   {
+      "id":2,
+      "name":"ISLA MUJERES",
+      "description":"",
+      "url":"",
+      "img":"destinations.jpg",
+      "title":""
+   },
+   {
+      "id":3,
+      "name":"PLAYA DEL CARMEN",
+      "description":"",
+      "url":"",
+      "img":"destinations.jpg",
+      "title":""
+   },
+   {
+      "id":4,
+      "name":"RIVIERA MAYA",
+      "description":"",
+      "url":"",
+      "img":"destinations.jpg",
+      "title":""
+   },
+   {
+      "id":5,
+      "name":"TULUM",
+      "description":"",
+      "url":"",
+      "img":"destinations.jpg",
+      "title":""
+   },
+   {
+      "id":6,
+      "name":"HOLBOX",
+      "description":"",
+      "url":"",
+      "img":"destinations.jpg",
+      "title":""
+   },
+   {
+      "id":7,
+      "name":"COZUMEL",
+      "description":"",
+      "url":"",
+      "img":"destinations.jpg",
+      "title":""
+   }
+
+]
