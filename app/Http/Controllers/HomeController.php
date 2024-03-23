@@ -17,8 +17,8 @@ class HomeController extends Controller
         $pathTours = resource_path('json/tours.json');
         $contentTours = File::get($pathTours);
         $tours = json_decode($contentTours,false);
-
-        return view('home')->with('destinations',$destinatios)->with('tours',$tours);
+        $tours_sold = [1,3,4];
+        return view('home')->with('destinations',$destinatios)->with('tours',$tours)->with('toursSold',$tours_sold);
         
     }
 }

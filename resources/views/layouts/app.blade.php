@@ -12,13 +12,14 @@
     <!-- Bootstrap core CSS -->
     <link href="{{asset('assets/css/bootstrap.min.css')}}" rel="stylesheet" type="text/css">
     <!--Custom CSS-->
-    <!-- <link href="{{asset('build/assets/style-BRvapnsD.css')}}" rel="stylesheet" type="text/css"> -->
-    @vite(['resources/scss/style.scss'])
+    <link href="{{asset('build/assets/style-DTqLT7-l.css')}}" rel="stylesheet" type="text/css">
+    
     <!--Plugin CSS-->
     <link href="{{asset('assets/css/plugin.css')}}" rel="stylesheet" type="text/css">
     <!--Font Awesome-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css"> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <link rel="stylesheet" href="{{asset('assets/fonts/line-icons.css')}}" type="text/css">
 
@@ -39,15 +40,16 @@
                     <ul>
                         <li><a href="#" class="white"><i class="icon-phone white"></i>  + 52 (998) 6090002</a></li>
                         <li><a href="#" class="white"><i class="icon-phone white"></i>  + 1 (305) 6868380</a></li>
-                        <li><a href="#" class="white"><i class="icon-envelope-open white"></i> info@aquacaribbeantravel.com</a></li>
+                        <li><a href="#" class="white"><i class="fab fa-whatsapp"></i> 998 3396618</a></li>
                     </ul>
                 </div>
                 <div class="links float-right">
                     <ul>  
-                        <li><a href="#" class="white"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
-                        <li><a href="#" class="white"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
-                        <li><a href="#" class="white"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
-                        <li><a href="#" class="white"><i class="fab fa-linkedin " aria-hidden="true"></i></a></li>
+                        <li><a href="https://www.instagram.com/aquacaribbeantravel?igsh=M2s0ZWg5a3RoYnFy" target="_blank" class="white"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
+                        <li><a href="https://www.tiktok.com/@aquacaribbeantravel?_t=8kpMVRgyp4X&_r=1" target="_blank" class="white"><i class="fab fa-tiktok" aria-hidden="true"></i></a></li>
+                        <li><a href="https://www.facebook.com/profile.php?id=61556738166552&mibextid=LQQJ4d" target="_blank" class="white"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
+                        <!-- <li><a href="#" target="_blank" class="white"><i class="fab fa-whatsapp" aria-hidden="true"></i></a></li> -->
+                        
                     </ul>
                 </div>
             </div>
@@ -96,12 +98,12 @@
 
     <!-- footer starts -->
     <footer class="pt-10 pb-4">
-        <div class="appWhatsapp">
+        <!-- <div class="appWhatsapp">
             <a href="https://api.whatsapp.com/send?phone=529984085290&text=hola,%20estoy%20interesado%20en%20una%20página%20web" 
                 title="Whatsapp" alt="Whatsapp" target="_blank">
                 <img src="{{asset('assets/images/whatsapp.png')}}" title="imagen de whatsapp" alt="imagen de whatsapp">
             </a>
-        </div>
+        </div> -->
         <!-- Instagram ends -->
         <div class="footer-upper pb-4">
             <div class="container">
@@ -109,14 +111,6 @@
                     <div class="col-lg-4 col-md-6 col-sm-12 mb-4 pe-4">
                         <div class="footer-about">
                             <img src="{{asset('assets/images/logo-aqua-caribbean.png')}}" alt="">
-                            <p class="mt-3 mb-3 white">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio suspendisse leo neque iaculis molestie sagittis maecenas aenean eget molestie sagittis.
-                            </p>
-                            <!-- <ul>
-                                <li class="white"><strong>Phone:</strong> 998 4085290</li>
-                                <li class="white"><strong>Location:</strong> Cancun Quintana Roo</li>
-                                <li class="white"><strong>Email:</strong> info@aquacaribbeantravel.com</li>
-                            </ul> -->
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-6 col-sm-12 mb-4">
@@ -136,16 +130,16 @@
                             <ul>
                                 <li class="white"> + 52 (998) 6090002</li>
                                 <li class="white"> + 1 (305) 6868380</li>
-                                <li class="white">Cancun Quintana Roo</li>
+                                <li class="white">Carr. a Aeropuerto Cancún, 77500 Cancún, Q.R.</li>
                                 <li class="white"> info@aquacaribbeantravel.com</li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 mb-4">
                         <div class="footer-links">
-                            <h3 class="white">loremipsum</h3>
+                            <h3 class="white">Attention</h3>
                             <div class="newsletter-form ">
-                                <p class="mb-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Et sed excepturi fuga, aspernatur eligendi animi ipsum voluptatum aliquid optio soluta repellat molestiae, nobis maiores in!</p>
+                                <p class="mb-3">Attention hours from 7:00 am to 11:00 PM Monday to Friday</p>
                                 <!-- <form action="#" method="get" accept-charset="utf-8" class="border-0 d-flex align-items-center">
                                     <input type="text" placeholder="Email Address">
                                     <button class="nir-btn ms-2">Subscribe</button>
@@ -165,10 +159,9 @@
                     </div>
                     <div class="social-links">
                         <ul>  
-                            <li><a href="#"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
-                            <li><a href="#"><i class="fab fa-linkedin" aria-hidden="true"></i></a></li>
+                            <li><a href="https://www.instagram.com/aquacaribbeantravel?igsh=M2s0ZWg5a3RoYnFy" target="_blank"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
+                            <li><a href="https://www.tiktok.com/@aquacaribbeantravel?_t=8kpMVRgyp4X&_r=1" target="_blank"><i class="fab fa-tiktok" aria-hidden="true"></i></a></li>
+                            <li><a href="https://www.facebook.com/profile.php?id=61556738166552&mibextid=LQQJ4d" target="_blank"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
                         </ul>
                     </div>
                 </div>    
@@ -204,7 +197,7 @@
     <script src="{{asset('assets/js/main.js')}}"></script>
     <script src="{{asset('assets/js/custom-swiper.js')}}"></script>
     <script src="{{asset('assets/js/custom-nav.js')}}"></script>
-    <script src="{{asset('custom.js?v=1') }}"></script>
+    <script src="{{asset('assets/custom.js?v=1') }}"></script>
     @yield('scripts')
 
 </body>

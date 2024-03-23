@@ -9,7 +9,7 @@
 @section('content')
 
     <!-- BreadCrumb Starts -->  
-    <section class="breadcrumb-main pb-20 pt-14" style="background-image: url(images/bg/bg1.jpg);">
+    <section class="breadcrumb-main pb-20 pt-14" style="background-image: url({{asset('assets/images/banners/contact-us.png')}});">
         <div class="section-shape section-shape1 top-inherit bottom-0" style="background-image: url(images/shape8.png);"></div>
         <div class="breadcrumb-outer">
             <div class="container">
@@ -37,7 +37,7 @@
                         <div class="contact-info bg-white">
                             <div class="contact-info-title text-center mb-4 px-5">
                                 <h3 class="mb-1">INFORMATION CONTACT US</h3>
-                                <p class="mb-0">Sagittis posuere id nam quis vestibulum vestibulum a facilisi at elit hendrerit scelerisque sodales nam dis orci.</p>
+                                <p class="mb-0">¿Do you have any questions, comments, or just want to say hello? We are here to help.</p>
                             </div>
                             <div class="contact-info-content row mb-1">
                                 <div class="col-lg-4 col-md-6 mb-4">
@@ -47,7 +47,7 @@
                                         </div>
                                         <div class="info-content">
                                             <h3>Office Location</h3>
-                                            <p class="m-0">Cancun Quintana Roo</p>
+                                            <p class="m-0">Carr. a Aeropuerto Cancún, 77500 Cancún, Q.R.</p>
                                         </div>
                                     </div>
                                 </div>

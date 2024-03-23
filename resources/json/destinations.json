@@ -4,7 +4,7 @@
       "name":"CANCUN",
       "description":"",
       "url":"",
-      "img":"destinations.jpg",
+      "img":"destinos-cancun.png",
       "title":""
    },
    {
@@ -12,7 +12,7 @@
       "name":"ISLA MUJERES",
       "description":"",
       "url":"",
-      "img":"destinations.jpg",
+      "img":"destinos-isla mujeres.png",
       "title":""
    },
    {
@@ -20,7 +20,7 @@
       "name":"PLAYA DEL CARMEN",
       "description":"",
       "url":"",
-      "img":"destinations.jpg",
+      "img":"destinos-playa del carmen.png",
       "title":""
    },
    {
@@ -28,7 +28,7 @@
       "name":"RIVIERA MAYA",
       "description":"",
       "url":"",
-      "img":"destinations.jpg",
+      "img":"destinos- riviera maya.png",
       "title":""
    },
    {
@@ -36,7 +36,7 @@
       "name":"TULUM",
       "description":"",
       "url":"",
-      "img":"destinations.jpg",
+      "img":"destinos-tulum.png",
       "title":""
    },
    {
@@ -44,15 +44,7 @@
       "name":"HOLBOX",
       "description":"",
       "url":"",
-      "img":"destinations.jpg",
-      "title":""
-   },
-   {
-      "id":7,
-      "name":"COZUMEL",
-      "description":"",
-      "url":"",
-      "img":"destinations.jpg",
+      "img":"destinos-holbox.png",
       "title":""
    }
 
