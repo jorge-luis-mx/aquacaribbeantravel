@@ -30,7 +30,7 @@ class sendMail extends Mailable
     {
         return new Envelope(
             from: new Address($this->data->emailFrom, 'Aquacaribbeantravel'),
-            subject: 'mensaa',
+            subject: 'Cliente Solicita Información',
         );
     }
 
