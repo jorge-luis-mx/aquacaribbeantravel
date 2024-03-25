@@ -139,7 +139,7 @@
                         <div class="footer-links">
                             <h3 class="white">Attention</h3>
                             <div class="newsletter-form ">
-                                <p class="mb-3">Attention hours from 7:00 am to 11:00 PM Monday to Friday</p>
+                                <p class="mb-3">Attention hours from 7:00 AM to 11:00 PM Monday to Sunday</p>
                                 <!-- <form action="#" method="get" accept-charset="utf-8" class="border-0 d-flex align-items-center">
                                     <input type="text" placeholder="Email Address">
                                     <button class="nir-btn ms-2">Subscribe</button>

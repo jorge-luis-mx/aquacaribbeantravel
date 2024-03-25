@@ -1,5 +1,6 @@
 <div class="description mb-2">
     <h4>Xcaret Classic</h4>
+    <P>From <strong>$115 USD</strong></P>
     <p>Fall in love with Mexico with Xcaret Classic, where you can discover more than 50 natural
 attractions surrounded by jungle, subway rivers and the Caribbean Sea. Immerse yourself in
 Mexican culture as you enjoy traditional dances, explore archaeological sites and marvel at
@@ -12,6 +13,7 @@ beauty and charm of this incredible country.</p>
 
 <div class="description mb-2">
     <h4>Xcaret Plus</h4>
+    <P>From <strong>$155 USD</strong></P>
     <p>Xcaret Plus is an incredible option to enjoy the culinary experience along with your visit to
 the park. With this ticket, you will be able to choose from five restaurants with varied
 specialties and savor a delicious buffet. In addition, you will have access to all the amenities

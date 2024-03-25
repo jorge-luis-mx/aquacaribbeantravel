@@ -50,7 +50,8 @@
                                     <!-- <h5 class="entry-category mb-0 white">Explore Travel</h5> -->
                                 </div>
                                 <h1 class="mb-2"><a href="#" class="white">TULUM</a></h1>
-                                <p class="white mb-4">More than a party destination.Disconnect from reality for a few days.</p>
+                                <h4 class="white">More than a party destination.</h4>
+                                <p class="white mb-4">Disconnect from reality for a few days.</p>
                                 <div class="slider-button d-flex justify-content-center">
                                     <a href="/contact-us" class="nir-btn-black">Contact Us</a>
                                 </div>
@@ -191,7 +192,7 @@
                                     <div class="why-us-icon mb-1">
                                         <i class="fas fa-users-cog theme"></i>
                                     </div>
-                                    <h4><a href="/contact-us">Taylor-made services</a></h4>
+                                    <h4><a href="/contact-us">Tailor made services</a></h4>
                                     <p class="mb-2">Our team of experts is here to help you on each step of the way.From travel advice 
                                     to assistance on emergencies, we are committed to rendering the best service possible.</p>
                                     

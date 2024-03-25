@@ -85,7 +85,7 @@
                                     <div class="why-us-icon mb-1">
                                         <i class="fas fa-users-cog theme"></i>
                                     </div>
-                                    <h4><a href="/contact-us">Taylor-made services</a></h4>
+                                    <h4><a href="/contact-us">Tailor made services</a></h4>
                                     <p class="mb-2">Our team of experts is here to help you on each step of the way.From travel advice 
                                     to assistance on emergencies, we are committed to rendering the best service possible.</p>
                                     

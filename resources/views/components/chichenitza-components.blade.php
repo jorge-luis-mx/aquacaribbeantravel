@@ -3,6 +3,7 @@
 
 <div class="description mb-2">
     <h4>Classic Chichen Itza</h4>
+    <P>From <strong>$80 USD</strong></P>
     <p>Chichen itza classic is the perfect day trip for anyone looking to explore the captivating
 Mayan ruins. With convenient pick-up from your hotel or designated meeting point, we take
 care of all the logistics so you can focus on immersing yourself in the rich history and culture.
@@ -38,6 +39,7 @@ through time with Chichen itza classic!</p>
 
 <div class="description mb-2">
     <h4>Diamond Chichen itza</h4>
+    <P>From <strong>$140 USD</strong></P>
     <p>Diamond Chichen Itza offers an unforgettable day trip to the Mayan ruins. With our
 convenient hotel pick-up or meeting point option, you'll embark on a journey to explore the
 ancient wonders of Chichen Itza. As part of this experience, we'll also visit two popular
@@ -51,6 +53,7 @@ buds.</p>
 
 <div class="description mb-2">
     <h4>Private Chichen Itza</h4>
+    <P>From <strong>$1,050 USD</strong></P>
     <p>Experience the wonders of Chichen Itza like never before with Private Chichen Itza. This
 exclusive daytrip allows up to 6 passengers to explore the historical site at their own pace.
 With 10 hours of transportation and fresh drinks included, you have the freedom to choose
@@ -62,6 +65,7 @@ through one of the New Seven Wonders of the World.</p>
 
 <div class="description mb-2">
     <h4>Chichen itza Air</h4>
+    <P>From <strong> $3,000 USD</strong></P>
     <p>Experience the breathtaking beauty of Chichen Itza like never before with Chichen Itza Air.
 Take to the skies and soar over the majestic Mayan ruins for a view that few will ever have
 the opportunity to witness. Our expert team ensures that you and your crew will enjoy this

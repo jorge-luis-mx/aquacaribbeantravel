@@ -8,6 +8,7 @@ vibrant 5th avenue in Playa del Carmen, where you can immerse yourself in local 
 shop for souvenirs, or indulge in delicious cuisine. Join us on this unforgettable journey
 through time and culture.</p>
 <h4>Classic</h4>
+<P>From <strong>$70 USD</strong></P>
     <div class="row">
         <div class="col-lg-6 col-md-6 mb-2">
             <div class="desc-box bg-grey p-4 rounded">
@@ -41,6 +42,7 @@ through time and culture.</p>
 
 
     <h4>Deluxe</h4>
+    <P>From <strong>$95 USD</strong></P>
     <div class="row">
         <div class="col-lg-6 col-md-6 mb-2">
             <div class="desc-box bg-grey p-4 rounded">
