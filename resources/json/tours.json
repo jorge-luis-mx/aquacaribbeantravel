@@ -7,7 +7,7 @@
       "price":"80",
       "rating":"",
       "slug":"chichen-itza",
-      "img":"CHICHEN-ITZA/chichen-classic.jpg",
+      "img":"chichen-classic.jpg",
       "title":""
    },
    {
@@ -18,7 +18,7 @@
       "price":"145",
       "rating":"",
       "slug":"holbox",
-      "img":"HOLBOX/HOLBOX.png",
+      "img":"HOLBOX.png",
       "title":""
    },
    {
@@ -29,7 +29,7 @@
       "price":"75",
       "rating":"",
       "slug":"snorkeling-isla-mujeres",
-      "img":"SNORKELING/SNORKEL.png",
+      "img":"SNORKEL.png",
       "title":""
    },
    {
@@ -40,7 +40,7 @@
       "price":"70",
       "rating":"",
       "slug":"tulum-cenotes",
-      "img":"TULUM/TULUM-CLASSICO.jpg",
+      "img":"TULUM-CLASSICO.jpg",
       "title":""
    },
    {
@@ -51,7 +51,7 @@
       "price":"115",
       "rating":"",
       "slug":"xcaret",
-      "img":"XCARET/XCARET.png",
+      "img":"XCARET.png",
       "title":""
    },
    {
@@ -62,7 +62,7 @@
       "price":"118",
       "rating":"",
       "slug":"coco-bongo",
-      "img":"COCO-BONGO/COCO-BONGO.png",
+      "img":"COCO-BONGO.png",
       "title":""
    },
    {
@@ -73,7 +73,7 @@
       "price":"150",
       "rating":"",
       "slug":"over-flight",
-      "img":"OVER-FLIGHT/SOBREVUELO.png",
+      "img":"SOBREVUELO.png",
       "title":""
    },
    {
@@ -84,7 +84,7 @@
       "price":"105",
       "rating":"",
       "slug":"xelha",
-      "img":"XELHA/XELHA.png",
+      "img":"XELHA.png",
       "title":""
    },
    {
@@ -95,7 +95,7 @@
       "price":"63",
       "rating":"",
       "slug":"xenses",
-      "img":"XENSES/XENSES.png",
+      "img":"XENSES.png",
       "title":""
    },
    {
@@ -106,7 +106,7 @@
       "price":"90",
       "rating":"",
       "slug":"xoximilco",
-      "img":"XOXIMILCO/XOMILCO.png",
+      "img":"XOMILCO.png",
       "title":""
    },
    {
@@ -117,7 +117,7 @@
       "price":"125",
       "rating":"",
       "slug":"xplor",
-      "img":"XPLOR/XPLOR.png",
+      "img":"XPLOR.png",
       "title":""
    }
 

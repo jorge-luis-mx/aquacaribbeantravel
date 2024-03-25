@@ -16,7 +16,7 @@
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <div class="slide-inner">
-                            <div class="slide-image" style="background-image: url({{asset('assets/images/slider/carrusel-cancun.webp')}});"></div>
+                            <div class="slide-image" style="background-image: url({{asset('assets/images/slider/slider-home.webp')}});"></div>
                             <div class="swiper-content">
                                 <div class="entry-meta mb-2">
                                     <!-- <h5 class="entry-category mb-0 white">Amazing Places</h5> -->
