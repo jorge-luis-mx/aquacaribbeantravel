@@ -3,7 +3,7 @@
 
 @section('metas')
     <meta name="description" content="" />
-    <meta name="keywords" content="" />
+    <meta name="keywords" content="Customized tourist services,Attractions in Riviera Maya, Accommodation in Riviera Maya,Caribbean paradise,Tourism in Holbox,Holbox tour from Riviera Maya, Attractions in Xcaret, Xcaret theme park, Archaeological tour,Excursion to Chichén Itzá" />
 
 @endsection
 
@@ -340,7 +340,7 @@
                                     <div class="details d-flex">
                                         <i class="fa fa-quote-left fs-1 mb-0"></i>
                                         <div class="author-content ms-4">
-                                            <p class="mb-4 white fs-5 fw-normal">Lorem Ipsum is simply dummy text of the printing andypesetting industry. Lorem ipsum a simple Lorem Ipsum has been the industry's standard dummy hic et quidem. Dignissimos maxime velit unde inventore quasi vero dolorem.</p>
+                                            <p class="mb-4 white fs-5 fw-normal">me la pase de lo mejor con mi familia en este bello  lugar,la verdad se los recomiendo,las personas del tour transportación muy amables y educados les recomiendo un 100% este bello lugar</p>
                                             <div class="rating-main d-flex align-items-center pb-2">
                                                 <div class="rating">
                                                     <span class="fa fa-star checked"></span>
@@ -353,8 +353,8 @@
                                             <div class="author-info d-flex align-items-center">
                                                 <img src="{{asset('assets/images/testimonial/img1.jpg')}}" alt="">
                                                 <div class="author-title ms-3">
-                                                    <h5 class="m-0 theme1">Jorge.</h5>
-                                                    <span class="white">Gomez</span>
+                                                    <h5 class="m-0 theme1">Jimy Sorto </h5>
+                                                    <!-- <span class="white">Gomez</span> -->
                                                 </div>
                                             </div>
                                         </div>
@@ -366,7 +366,7 @@
                                     <div class="details d-flex">
                                         <i class="fa fa-quote-left fs-1 mb-0"></i>
                                         <div class="author-content ms-4">
-                                            <p class="mb-4 white fs-5 fw-normal">Lorem Ipsum is simply dummy text of the printing andypesetting industry. Lorem ipsum a simple Lorem Ipsum has been the industry's standard dummy hic et quidem. Dignissimos maxime velit unde inventore quasi vero dolorem.</p>
+                                            <p class="mb-4 white fs-5 fw-normal">me encantó la logística de esta empresa, todo muy puntual y buena organización, el hotel estuvo padrísimo las mejores atenciones por parte del hotel y la señorita encargada de la logistica, mis próximas vacaciones serán con ustedes mismos una muy buena experiencia definitivamente 10 de 10 gracias por la amabilidad</p>
                                             <div class="rating-main d-flex align-items-center pb-2">
                                                 <div class="rating">
                                                     <span class="fa fa-star checked"></span>
@@ -379,8 +379,8 @@
                                             <div class="author-info d-flex align-items-center">
                                                 <img src="{{asset('assets/images/testimonial/img2.jpg')}}" alt="">
                                                 <div class="author-title ms-3">
-                                                    <h5 class="m-0 theme1">Jorge</h5>
-                                                    <span class="white">Lorem, ipsum.</span>
+                                                    <h5 class="m-0 theme1">Sandra Medina </h5>
+                                                    <!-- <span class="white">Lorem, ipsum.</span> -->
                                                 </div>
                                             </div>
                                         </div>
@@ -392,12 +392,12 @@
                                     <div class="details d-flex">
                                         <i class="fa fa-quote-left fs-1 mb-0"></i>
                                         <div class="author-content ms-4">
-                                            <p class="mb-4 white fs-5 fw-normal">Lorem Ipsum is simply dummy text of the printing andypesetting industry. Lorem ipsum a simple Lorem Ipsum has been the industry's standard dummy hic et quidem. Dignissimos maxime velit unde inventore quasi vero dolorem.</p>
+                                            <p class="mb-4 white fs-5 fw-normal">Son increíbles, me ayudaron en todo lo necesario para disfrutar de mis vacaciones sin problemas.</p>
                                             <div class="author-info d-flex align-items-center">
                                                 <img src="{{asset('assets/images/testimonial/img3.jpg')}}" alt="">
                                                 <div class="author-title ms-3">
-                                                    <h5 class="m-0 theme1">Jorge</h5>
-                                                    <span class="white">Lorem, ipsum.</span>
+                                                    <h5 class="m-0 theme1">Fer Madrigal</h5>
+                                                    <!-- <span class="white">Lorem, ipsum.</span> -->
                                                 </div>
                                             </div>
                                         </div>
@@ -480,11 +480,8 @@
     <!-- our teams starts -->
     <section class="our-team pb-0">
         <div class="container">
-              
-            <div class="section-title mb-6 w-75 mx-auto text-center">
-                <!-- <h4 class="mb-1 theme1">Tour Guides</h4> -->
+            <!-- <div class="section-title mb-6 w-75 mx-auto text-center">
                 <h2 class="mb-1">Meet Our <span class="theme">Excellent Guides</span></h2>
-                <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p> -->
             </div>  
             <div class="team-main">
                 <div class="row shop-slider">
@@ -495,7 +492,7 @@
                             </div>
                             <div class="team-content text-center p-3 bg-theme">
                                <h4 class="mb-0 white">Vanessa S.</h4>
-                                <!-- <p class="mb-0 white">Senior Agent</p> -->
+                                
                             </div>
                         </div>
                     </div>
@@ -507,7 +504,7 @@
                             </div>
                             <div class="team-content text-center p-3 bg-theme">
                                <h4 class="mb-0 white">Alisson P.</h4>
-                                <!-- <p class="mb-0 white">Head Officer</p> -->
+                              
                             </div>
                         </div>
                     </div>
@@ -519,13 +516,13 @@
                             </div>
                             <div class="team-content text-center p-3 bg-theme">
                                <h4 class="mb-0 white">Fernanda C.</h4>
-                                <!-- <p class="mb-0 white">Supervisor</p> -->
+                                
                             </div>
                         </div>
                     </div>
 
                 </div>
-            </div>
+            </div> -->
         </div>
     </section>
     <!-- our teams Ends -->

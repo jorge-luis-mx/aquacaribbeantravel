@@ -81,7 +81,7 @@
                                         <div class="map rounded overflow-hiddenb rounded mb-md-4">
                                             <div style="width: 100%">
                                                 <!-- <iframe height="500" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=+(mangal%20bazar)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe> -->
-                                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3720.5192510126394!2d-86.8406419256897!3d21.17152208286164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x61569430c30292e1%3A0x13a0f0272d957ecf!2sDevsCUN!5e0!3m2!1ses-419!2smx!4v1710223843014!5m2!1ses-419!2smx" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.9827885161453!2d-86.86560383216126!3d21.033374665648118!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4e81068f13de83%3A0xf25a8e25570fd30f!2sASUR%20FBO!5e0!3m2!1ses!2smx!4v1711414475865!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                             </div>
                                         </div>
                                     </div>

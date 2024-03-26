@@ -2,7 +2,7 @@
 
 @section('metas')
     <meta name="description" content="" />
-    <meta name="keywords" content="" />
+    <meta name="keywords" content="Customized tourist services, Travel agency, Riviera Maya, Tour packages, Tourist activities, Air tours" />
 
 @endsection
 
@@ -27,6 +27,59 @@
         <div class="dot-overlay"></div>
     </section>
     <!-- BreadCrumb Ends --> 
+
+    <!-- best tour Starts -->
+    <section class="trending bg-grey pt-17 pb-6">
+        <div class="section-shape top-0" style="background-image: url({{asset('assets/images/shape8.png')}});"></div>
+        <div class="container">
+            <div class="row align-items-center justify-content-between mb-6 ">
+                <div class="col-lg-12">
+                    <div class="section-title mb-6 w-75 mx-auto text-center">
+                        
+                        <h2 class="mb-1"><span class="theme">Tours  Experiencias</span></h2>
+                       
+                    </div>
+                </div>
+                <div class="col-lg-5">  
+                </div>
+            </div>
+            <div class="trend-box">
+                <div class="row item-slider">
+                    @foreach ($tours as $index => $tour)
+                    <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
+                        <div class="trend-item rounded box-shadow bg-white">
+                            <div class="trend-image position-relative">
+                                <img src="{{ asset('assets/images/tours/'. $tour->img) }}" alt="image">
+                                <div class="color-overlay"></div>
+                            </div>
+                            <div class="trend-content p-4 pt-5 position-relative">
+                                <h3 class="mb-1"><a href="tour/{{$tour->slug}}">{{$tour->name}}</a></h3>
+                                <div class="rating-main d-flex align-items-center pb-2">
+                                    <div class="rating">
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star checked"></span>
+                                    </div>
+                                    <span class="ms-2">(5)</span>
+                                </div>
+                                <p class=" border-b pb-2 mb-2">{{$tour->shortDescription}}</p>
+                                <div class="entry-meta">
+                                    <div class="entry-author d-flex align-items-center">
+                                        <p class="mb-0"><span class="theme fw-bold fs-5"> ${{$tour->price}} <small>USD</small></span> | Per person</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    @endforeach
+                </div>
+            </div>  
+
+        </div>
+    </section>
+    <!-- best tour Ends -->
 
     <!-- about-us starts -->
     <section class="about-us pb-6 pt-6" style="background-image:url(images/shape4.png); background-position:center;">
