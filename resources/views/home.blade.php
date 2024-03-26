@@ -19,7 +19,7 @@
                             <div class="slide-image" style="background-image: url({{asset('assets/images/slider/slider-home.webp')}});"></div>
                             <div class="swiper-content">
                                 <div class="entry-meta mb-2">
-                                    <!-- <h5 class="entry-category mb-0 white">Amazing Places</h5> -->
+                                    
                                 </div>
                                 <h1 class="mb-2"><a href="#" class="white">Your Entry door to the Mexican Caribbean!</a></h1>
                                 <p class="white mb-4">Are you looking for your dream vacation? We are your best option</p>
@@ -33,7 +33,7 @@
                             <div class="slide-image" style="background-image: url({{asset('assets/images/slider/carrusel-cancun.webp')}});"></div>
                             <div class="swiper-content">
                                 <div class="entry-meta mb-2">
-                                    <!-- <h5 class="entry-category mb-0 white">Amazing Places</h5> -->
+                                    
                                 </div>
                                 <h1 class="mb-2"><a href="#" class="white">HOTELES</a></h1>
                                 <p class="white mb-4">A unique experience Enjoy to the maximum while you feel at home.</p>
@@ -47,7 +47,7 @@
                             <div class="slide-image" style="background-image: url({{asset('assets/images/slider/carrusel-tulum.webp')}});"></div>
                             <div class="swiper-content">
                                 <div class="entry-meta mb-2">
-                                    <!-- <h5 class="entry-category mb-0 white">Explore Travel</h5> -->
+                                    
                                 </div>
                                 <h1 class="mb-2"><a href="#" class="white">TULUM</a></h1>
                                 <h4 class="white">More than a party destination.</h4>
@@ -64,7 +64,7 @@
                            <div class="slide-image" style="background-image: url({{asset('assets/images/slider/carrusel-chichen.webp')}});"></div>
                            <div class="swiper-content">
                                 <div class="entry-meta mb-2">
-                                    <!-- <h5 class="entry-category mb-0 white">Road To Travel</h5> -->
+                                    
                                 </div>
                                 <h1 class="mb-2"><a href="#" class="white">CHICHEN ITZA</a></h1>
                                 <p class="white mb-4">Discover the greatness of the mayan world Get ready to learn about the past with our guides</p>
@@ -243,7 +243,6 @@
     <section class="trending pb-9">
         <div class="container">
             <div class="section-title mb-6 w-75 mx-auto text-center">
-                <!-- <h4 class="mb-1 theme1">we offer</h4> -->
                 <h2 class="mb-1"><span class="theme">We offer</span></h2>
                 <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p> -->
             </div>  
@@ -447,8 +446,6 @@
                                                 <p>{{$tour->shortDescription}}</p>
                                                 <div class="trend-meta border-b pb-2 mb-2">
                                                     <div class="entry-author theme">
-                                                        <!-- <i class="icon-calendar"></i> -->
-                                                        <!-- <span> 9 Days Tours</span> -->
                                                     </div>
                                                 </div>
                                                 <div class="entry-meta">
@@ -462,12 +459,7 @@
                                 </div>
                             </div>
                         @endif
-
-                       
-
-                        
                     @endforeach
-               
                 </div>
             </div> 
 
@@ -526,6 +518,5 @@
         </div>
     </section>
     <!-- our teams Ends -->
-
 
     @endsection

@@ -24,11 +24,6 @@
 </head>
 
 <body>
-    <!-- Preloader -->
-    <!-- <div id="preloader">
-        <div id="status"></div>
-    </div> -->
-    <!-- Preloader Ends -->
 
     <!-- header starts -->
     <header class="main_header_area">
@@ -46,8 +41,6 @@
                         <li><a href="https://www.instagram.com/aquacaribbeantravel?igsh=M2s0ZWg5a3RoYnFy" target="_blank" class="white"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
                         <li><a href="https://www.tiktok.com/@aquacaribbeantravel?_t=8kpMVRgyp4X&_r=1" target="_blank" class="white"><i class="fab fa-tiktok" aria-hidden="true"></i></a></li>
                         <li><a href="https://www.facebook.com/profile.php?id=61556738166552&mibextid=LQQJ4d" target="_blank" class="white"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
-                        <!-- <li><a href="#" target="_blank" class="white"><i class="fab fa-whatsapp" aria-hidden="true"></i></a></li> -->
-                        
                     </ul>
                 </div>
             </div>
@@ -77,9 +70,9 @@
                         </div><!-- /.navbar-collapse -->     
                         <div class="register-login d-flex align-items-center">
                             <a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal" class="me-3">
-                                <!-- <i class="icon-user"></i> Login/Register -->
+                               
                             </a>
-                            <!-- <a href="#" class="nir-btn white">Book Now</a> -->
+                            
                         </div> 
 
                         <div id="slicknav-mobile"></div>
@@ -118,7 +111,7 @@
                                 <li><a href="/about-us">About Us</a></li>
                                 <li><a href="#">Privacy Policy</a></li>
                                 <li><a href="#">Terms &amp; Conditions</a></li>
-                                <!-- <li><a href="about-us.html">Customer Service</a></li> -->
+                                
                             </ul>
                         </div>
                     </div>
