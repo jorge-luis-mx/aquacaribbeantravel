@@ -44,13 +44,13 @@ class ContactController extends Controller
             // $contact->save();
 
 
-            $contact->emailFrom = 'info@devscun.com';
+            $contact->emailFrom = 'info@aquacaribbeantravel.com';
             $contact->url_logo ="https://mcusercontent.com/3c2808aae44e821b5b8e0a3f4/images/6b088346-e277-36cc-5e1c-7350235bedad.jpeg";
             $data = $contact;
             $data->date = date('d') .' '. $this->getNamesMonths(date('m') - 1) .' '. date('Y');
             //send email
             $data->template_mail ='mails.contact-emails';
-            Mail::to($contact->email)->send(new sendMail($data));
+            Mail::to('info@aquacaribbeantravel.com')->send(new sendMail($data));
 
             $response["success"] = true;
             $response["message"] = "Creado correctamente";

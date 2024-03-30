@@ -119,9 +119,10 @@
                                     <span class="ms-2">(5)</span>
                                 </div>
                                 <p class=" border-b pb-2 mb-2">{{$tour->shortDescription}}</p>
+                                <a href="/contact-us" class="nir-btn-black">Contact Us</a>
                                 <div class="entry-meta">
                                     <div class="entry-author d-flex align-items-center">
-                                        <p class="mb-0"><span class="theme fw-bold fs-5"> ${{$tour->price}} <small>USD</small></span> | Per person</p>
+                                        <p class="mb-0"><span class="theme fw-bold fs-5"> ${{$tour->price}} <small>USD</small></span> | Per person </p>
                                     </div>
                                 </div>
                             </div>
@@ -444,6 +445,7 @@
                                                     </div>
                                                 </div>
                                                 <p>{{$tour->shortDescription}}</p>
+                                                <a href="/contact-us" class="nir-btn-black">Contact Us</a>
                                                 <div class="trend-meta border-b pb-2 mb-2">
                                                     <div class="entry-author theme">
                                                     </div>
