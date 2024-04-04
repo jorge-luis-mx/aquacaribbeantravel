@@ -9,3 +9,6 @@ export default defineConfig({
         }),
     ],
 });
+//<!-- @vite(['resources/scss/style.scss']) -->
+//compilar para produccion css o js
+//npm run build 

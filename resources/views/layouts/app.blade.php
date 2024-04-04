@@ -12,7 +12,7 @@
     <!-- Bootstrap core CSS -->
     <link href="{{asset('assets/css/bootstrap.min.css')}}" rel="stylesheet" type="text/css">
     <!--Custom CSS-->
-    <link href="{{asset('build/assets/style-DTqLT7-l.css')}}" rel="stylesheet" type="text/css">
+    <link href="{{asset('build/assets/style-DbYOpgoN.css')}}" rel="stylesheet" type="text/css">
     
     <!--Plugin CSS-->
     <link href="{{asset('assets/css/plugin.css')}}" rel="stylesheet" type="text/css">
@@ -89,12 +89,12 @@
 
     <!-- footer starts -->
     <footer class="pt-10 pb-4">
-        <!-- <div class="appWhatsapp">
-            <a href="https://api.whatsapp.com/send?phone=529984085290&text=hola,%20estoy%20interesado%20en%20una%20página%20web" 
+        <div class="appWhatsapp">
+            <a href="https://api.whatsapp.com/send?phone=529983396618&text=Could%20you%20help%20me%20with%20a%20reservation?" 
                 title="Whatsapp" alt="Whatsapp" target="_blank">
-                <img src="{{asset('assets/images/whatsapp.png')}}" title="imagen de whatsapp" alt="imagen de whatsapp">
+                <img src="{{asset('assets/images/whatsapp.webp')}}" title="imagen de whatsapp" alt="imagen de whatsapp">
             </a>
-        </div> -->
+        </div>
         <!-- Instagram ends -->
         <div class="footer-upper pb-4">
             <div class="container">
